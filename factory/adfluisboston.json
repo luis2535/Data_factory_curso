@@ -1,0 +1,9 @@
+{
+	"name": "adfluisboston",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9622ce90-6463-43a9-a7f7-38876f253fe2",
+		"tenantId": "f880a7da-33fa-417d-bffd-bdb13c76ea89"
+	}
+}
